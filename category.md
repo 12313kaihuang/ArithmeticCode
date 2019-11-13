@@ -7,10 +7,11 @@
 ## 链表
 * [**从尾到头打印链表**](./SwordToOffer/doc/从尾到头打印链表.md)
 
-## 树
+## 递归和循环
+* [**斐波那契数列**](./SwordToOffer/doc/斐波那契数列.md)
 
 ## 数组
    * [二维数组中的查找](./SwordToOffer/doc/二维数组中的查找.md)
    
-## 其他
+## 字符串
    * [替换空格](./SwordToOffer/doc/替换空格.md)
