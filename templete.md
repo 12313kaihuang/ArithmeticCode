@@ -14,8 +14,9 @@
 
 ```
 
-## [代码](../code/Test5.java)
-[代码](../code/Test5.java)
+## Code
+[code](../code/Test5.java)<br/>
+[kotlin Code](../../kotlin/Test7.kt)
 
 ## 相关扩展
 * []()
