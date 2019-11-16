@@ -13,6 +13,9 @@
 ## 递归和循环
 * [**斐波那契数列**](./SwordToOffer/doc/斐波那契数列.md)
 
+## 查找和排序
+* [旋转数组的最小数字](./SwordToOffer/doc/旋转数组的最小数字.md)
+
 ## 数组
 * [二维数组中的查找](./SwordToOffer/doc/二维数组中的查找.md)
    
