@@ -12,7 +12,7 @@
 
 ## 递归和循环
 * [**斐波那契数列**](./SwordToOffer/doc/斐波那契数列.md)
-* [**跳台阶**](./SwordToOffer/doc/跳台阶.md)
+* [跳台阶](./SwordToOffer/doc/跳台阶.md)
 
 ## 查找和排序
 * [旋转数组的最小数字](./SwordToOffer/doc/旋转数组的最小数字.md)
