@@ -13,7 +13,7 @@ fun main() {
 
 class Test6 {
     fun minNumberInRotateArray(array: IntArray): Int {
-        if (array.size == 0) return 0
+        if (array.isEmpty()) return 0
         var result = array[0]
         for (i in array.indices) {
             if (array[i] > array[i + 1]) result = array[i + 1]

@@ -1,5 +1,8 @@
 package ArithmeticCode.SwordToOffer.code;
 
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
 /**
  * Created by Hy on 2019/11/07 9:26
  * 在一个二维数组中（每个一维数组的长度相同），
@@ -10,6 +13,11 @@ package ArithmeticCode.SwordToOffer.code;
 @SuppressWarnings({"InnerClassMayBeStatic", "unused"})
 public class Test1 {
 
+    public static void main(String[] args) {
+        Map<String, String> map = new ConcurrentHashMap<>();
+        String s = map.get(null);
+        System.out.println(String.format("s = %s", s));
+    }
 
     /**
      * 暴力破解

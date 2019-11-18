@@ -1,6 +1,7 @@
 package ArithmeticCode.SwordToOffer.code;
 
-import ArithmeticCode.kotlin.ListNode;
+
+import ArithmeticCode.common.ListNode;
 
 import java.util.ArrayList;
 import java.util.Stack;

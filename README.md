@@ -8,6 +8,7 @@
    * [**用两个栈实现队列**](./SwordToOffer/doc/用两个栈实现队列.md)
    * [**旋转数组的最小数字**](./SwordToOffer/doc/旋转数组的最小数字.md)
    * [**斐波那契数列**](./SwordToOffer/doc/斐波那契数列.md)
+   * [**跳台阶**](./SwordToOffer/doc/跳台阶.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
