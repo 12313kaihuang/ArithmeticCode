@@ -10,6 +10,7 @@
    * [斐波那契数列](./SwordToOffer/doc/斐波那契数列.md)
    * [跳台阶](./SwordToOffer/doc/跳台阶.md)
    * [变态跳台阶](./SwordToOffer/doc/变态跳台阶.md)
+   * [矩形覆盖](./SwordToOffer/doc/矩形覆盖.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
