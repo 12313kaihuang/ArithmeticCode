@@ -13,6 +13,7 @@
    * [矩形覆盖](./SwordToOffer/doc/矩形覆盖.md)
    * [**二进制中1的个数**](./SwordToOffer/doc/二进制中1的个数.md)
    * [数值的整数次方](./SwordToOffer/doc/数值的整数次方.md)
+   * [调整数组顺序使奇数位于偶数前面](./SwordToOffer/doc/调整数组顺序使奇数位于偶数前面.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
