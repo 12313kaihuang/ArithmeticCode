@@ -7,6 +7,7 @@
 ## 链表
 * [**从尾到头打印链表**](./SwordToOffer/doc/从尾到头打印链表.md)
 * [**链表中倒数第k个节点**](./SwordToOffer/doc/链表中倒数第k个节点.md)
+* [反转链表](./SwordToOffer/doc/反转链表.md)
 
 ## 树
 * [**重建二叉树**](./SwordToOffer/doc/重建二叉树.md)

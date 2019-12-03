@@ -15,6 +15,7 @@
    * [数值的整数次方](./SwordToOffer/doc/数值的整数次方.md)
    * [调整数组顺序使奇数位于偶数前面](./SwordToOffer/doc/调整数组顺序使奇数位于偶数前面.md)
    * [**链表中倒数第k个节点**](./SwordToOffer/doc/链表中倒数第k个节点.md)
+   * [反转链表](./SwordToOffer/doc/反转链表.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
