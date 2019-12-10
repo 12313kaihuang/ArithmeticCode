@@ -17,6 +17,7 @@
    * [**链表中倒数第k个节点**](./SwordToOffer/doc/链表中倒数第k个节点.md)
    * [反转链表](./SwordToOffer/doc/反转链表.md)
    * [合并两个排序的链表](./SwordToOffer/doc/合并两个排序的链表.md)
+   * [树的子结构](./SwordToOffer/doc/树的子结构.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)

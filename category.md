@@ -12,6 +12,7 @@
 
 ## 树
 * [**重建二叉树**](./SwordToOffer/doc/重建二叉树.md)
+* [树的子结构](./SwordToOffer/doc/树的子结构.md)
 
 ## 递归和循环
 * [**斐波那契数列**](./SwordToOffer/doc/斐波那契数列.md)
