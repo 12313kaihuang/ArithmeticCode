@@ -3,6 +3,7 @@
 * [**用两个栈实现队列**](./SwordToOffer/doc/用两个栈实现队列.md)
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
+* [**包含min函数的栈**](./SwordToOffer/doc/包含min函数的栈.md)
 
 ## 链表
 * [**从尾到头打印链表**](./SwordToOffer/doc/从尾到头打印链表.md)
@@ -26,6 +27,7 @@
 
 ## 数组
 * [二维数组中的查找](./SwordToOffer/doc/二维数组中的查找.md)
+* [**顺时针打印矩阵**](./SwordToOffer/doc/顺时针打印矩阵.md)
    
 ## 字符串
 * [替换空格](./SwordToOffer/doc/替换空格.md)
