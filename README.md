@@ -21,6 +21,7 @@
    * [二叉树的镜像](./SwordToOffer/doc/二叉树的镜像.md)
    * [**顺时针打印矩阵**](./SwordToOffer/doc/顺时针打印矩阵.md)
    * [**包含min函数的栈**](./SwordToOffer/doc/包含min函数的栈.md)
+   * [栈的压入、弹出序列](./SwordToOffer/doc/栈的压入、弹出序列.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)

@@ -4,6 +4,7 @@
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
 * [**包含min函数的栈**](./SwordToOffer/doc/包含min函数的栈.md)
+* [栈的压入、弹出序列](./SwordToOffer/doc/栈的压入、弹出序列.md)
 
 ## 链表
 * [**从尾到头打印链表**](./SwordToOffer/doc/从尾到头打印链表.md)
