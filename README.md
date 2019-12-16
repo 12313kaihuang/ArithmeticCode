@@ -23,6 +23,7 @@
    * [**包含min函数的栈**](./SwordToOffer/doc/包含min函数的栈.md)
    * [栈的压入、弹出序列](./SwordToOffer/doc/栈的压入、弹出序列.md)
    * [栈的压入、从上往下打印二叉树](./SwordToOffer/doc/从上往下打印二叉树、弹出序列.md)
+   * [二叉搜索树的后序遍历序列](./SwordToOffer/doc/二叉搜索树的后序遍历序列.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
