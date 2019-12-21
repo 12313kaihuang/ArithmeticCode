@@ -11,6 +11,7 @@
 * [**链表中倒数第k个节点**](./SwordToOffer/doc/链表中倒数第k个节点.md)
 * [反转链表](./SwordToOffer/doc/反转链表.md)
 * [合并两个排序的链表](./SwordToOffer/doc/合并两个排序的链表.md)
+* [复杂链表的复制](./SwordToOffer/doc/复杂链表的复制.md)
 
 ## 树
 * [**重建二叉树**](./SwordToOffer/doc/重建二叉树.md)
