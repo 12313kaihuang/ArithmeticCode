@@ -12,6 +12,7 @@
 * [反转链表](./SwordToOffer/doc/反转链表.md)
 * [合并两个排序的链表](./SwordToOffer/doc/合并两个排序的链表.md)
 * [复杂链表的复制](./SwordToOffer/doc/复杂链表的复制.md)
+* [二叉搜索树与双向链表](./SwordToOffer/doc/二叉搜索树与双向链表.md)
 
 ## 树
 * [**重建二叉树**](./SwordToOffer/doc/重建二叉树.md)
@@ -21,6 +22,7 @@
 * [二叉搜索树的后序遍历序列](./SwordToOffer/doc/二叉搜索树的后序遍历序列.md)
 * [获取树中节点数最多的层数](./Others/doc/获取树中节点数最多的层数.md)
 * [二叉树中和为某一值的路径](./Others/doc/二叉树中和为某一值的路径.md)
+* [二叉搜索树与双向链表](./Others/doc/二叉搜索树与双向链表.md)
 
 ## 递归和循环
 * [**斐波那契数列**](./SwordToOffer/doc/斐波那契数列.md)
