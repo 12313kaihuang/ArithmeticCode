@@ -27,8 +27,11 @@
    * [二叉树中和为某一值的路径](./SwordToOffer/doc/二叉树中和为某一值的路径.md)
    * [复杂链表的复制](./SwordToOffer/doc/复杂链表的复制.md)
    * [二叉搜索树与双向链表](./SwordToOffer/doc/二叉搜索树与双向链表.md)
+   * [字符串的排列](./SwordToOffer/doc/字符串的排列.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
 * [获取树中节点数最多的层数](./Others/doc/获取树中节点数最多的层数.md)
+* [获取树中节点数最多的层数](./Others/doc/获取树中节点数最多的层数.md)
+* [**打印View树的层次结构**](./Others/doc/打印View树的层次结构.md)
 # LeetCode
