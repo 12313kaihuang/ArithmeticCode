@@ -36,6 +36,7 @@
 ## 数组
 * [二维数组中的查找](./SwordToOffer/doc/二维数组中的查找.md)
 * [**顺时针打印矩阵**](./SwordToOffer/doc/顺时针打印矩阵.md)
+* [数组中出现次数超过一半的数字](./SwordToOffer/doc/数组中出现次数超过一半的数字.md)
    
 ## 字符串
 * [替换空格](./SwordToOffer/doc/替换空格.md)
