@@ -38,6 +38,7 @@
 * [**顺时针打印矩阵**](./SwordToOffer/doc/顺时针打印矩阵.md)
 * [数组中出现次数超过一半的数字](./SwordToOffer/doc/数组中出现次数超过一半的数字.md)
 * [最小的k个数](./SwordToOffer/doc/最小的k个数.md)
+* [连续子数组的最大和](./SwordToOffer/doc/连续子数组的最大和.md)
    
 ## 字符串
 * [替换空格](./SwordToOffer/doc/替换空格.md)

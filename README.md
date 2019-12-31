@@ -30,6 +30,7 @@
    * [字符串的排列](./SwordToOffer/doc/字符串的排列.md)
    * [数组中出现次数超过一半的数字](./SwordToOffer/doc/数组中出现次数超过一半的数字.md)
    * [最小的k个数](./SwordToOffer/doc/最小的k个数.md)
+   * [连续子数组的最大和](./SwordToOffer/doc/连续子数组的最大和.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
