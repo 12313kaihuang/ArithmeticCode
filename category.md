@@ -13,6 +13,7 @@
 * [合并两个排序的链表](./SwordToOffer/doc/合并两个排序的链表.md)
 * [复杂链表的复制](./SwordToOffer/doc/复杂链表的复制.md)
 * [二叉搜索树与双向链表](./SwordToOffer/doc/二叉搜索树与双向链表.md)
+* [找到交叉链表的第一个公共节点](./SwordToOffer/doc/找到交叉链表的第一个公共节点.md)
 
 ## 树
 * [**重建二叉树**](./SwordToOffer/doc/重建二叉树.md)
