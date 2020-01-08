@@ -52,3 +52,6 @@
 ## 代码的完整性
 * [数值的整数次方](./SwordToOffer/doc/数值的整数次方.md)
 * [调整数组顺序使奇数位于偶数前面](./SwordToOffer/doc/调整数组顺序使奇数位于偶数前面.md)
+
+## 时间空间效率的平衡
+* [丑数](./SwordToOffer/doc/丑数.md)
