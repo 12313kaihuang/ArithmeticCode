@@ -34,6 +34,7 @@
    * [数组中1出现的次数](./SwordToOffer/doc/数组中1出现的次数.md)
    * [把数组排成最小的数](./SwordToOffer/doc/把数组排成最小的数.md)
    * [丑数](./SwordToOffer/doc/丑数.md)
+   * [第一次只出现一次的字符](./SwordToOffer/doc/第一次只出现一次的字符.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
