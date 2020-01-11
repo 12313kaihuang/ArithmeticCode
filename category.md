@@ -42,6 +42,7 @@
 * [最小的k个数](./SwordToOffer/doc/最小的k个数.md)
 * [连续子数组的最大和](./SwordToOffer/doc/连续子数组的最大和.md)
 * [把数组排成最小的数](./SwordToOffer/doc/把数组排成最小的数.md)
+* [数字在排序数组中出现的次数](./SwordToOffer/doc/数字在排序数组中出现的次数.md)
    
 ## 字符串
 * [替换空格](./SwordToOffer/doc/替换空格.md)
