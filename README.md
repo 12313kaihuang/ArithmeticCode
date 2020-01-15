@@ -39,6 +39,7 @@
    * [数字在排序数组中出现的次数](./SwordToOffer/doc/数字在排序数组中出现的次数.md)
    * [二叉树的深度](./SwordToOffer/doc/二叉树的深度.md)
    * [平衡二叉树](./SwordToOffer/doc/平衡二叉树.md)
+   * [数组中只出现一次的数字](./SwordToOffer/doc/数组中只出现一次的数字.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
