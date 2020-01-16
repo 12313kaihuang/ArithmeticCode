@@ -31,7 +31,7 @@
    * [数组中出现次数超过一半的数字](./SwordToOffer/doc/数组中出现次数超过一半的数字.md)
    * [最小的k个数](./SwordToOffer/doc/最小的k个数.md)
    * [连续子数组的最大和](./SwordToOffer/doc/连续子数组的最大和.md)
-   * [数组中1出现的次数](./SwordToOffer/doc/数组中1出现的次数.md)
+   * [整数中1出现的次数](./SwordToOffer/doc/整数中1出现的次数.md)
    * [把数组排成最小的数](./SwordToOffer/doc/把数组排成最小的数.md)
    * [丑数](./SwordToOffer/doc/丑数.md)
    * [第一次只出现一次的字符](./SwordToOffer/doc/第一次只出现一次的字符.md)
