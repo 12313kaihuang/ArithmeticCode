@@ -42,6 +42,7 @@
    * [数组中只出现一次的数字](./SwordToOffer/doc/数组中只出现一次的数字.md)
    * [和为S的连续正数序列](./SwordToOffer/doc/和为S的连续正数序列.md)
    * [和为S的两个数](./SwordToOffer/doc/和为S的两个数.md)
+   * [左旋转字符串](./SwordToOffer/doc/左旋转字符串.md)
    * [求1+2+...+n](./SwordToOffer/doc/求1+2+...+n.md)
 # 笔/面试题等
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
