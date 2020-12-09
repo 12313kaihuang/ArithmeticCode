@@ -1,6 +1,5 @@
 package ArithmeticCode.SwordToOffer.code;
 
-import com.sun.org.apache.xml.internal.serializer.OutputPropertyUtils;
 
 import java.io.UncheckedIOException;
 
