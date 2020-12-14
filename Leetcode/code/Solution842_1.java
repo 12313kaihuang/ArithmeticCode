@@ -25,7 +25,7 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Test842_1 {
+public class Solution842_1 {
     public List<Integer> splitIntoFibonacci(String S) {
         List<Integer> res = new ArrayList<>();
         backtrack(S.toCharArray(), res, 0);

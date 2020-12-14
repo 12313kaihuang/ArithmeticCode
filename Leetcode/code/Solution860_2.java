@@ -1,7 +1,7 @@
 package Leetcode.code;
 
 
-public class Test860_2 {
+public class Solution860_2 {
 
 
     /**

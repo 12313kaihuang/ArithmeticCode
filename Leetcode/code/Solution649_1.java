@@ -22,7 +22,7 @@ import java.util.Queue;
  * 链接：https://leetcode-cn.com/problems/dota2-senate
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Test649_1 {
+public class Solution649_1 {
 
     //最近工作好费脑子，很累。没有脑细胞想了这是官方题解，挺好理解的，看注释。
     public String predictPartyVictory(String senate) {
@@ -49,6 +49,6 @@ public class Test649_1 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Test649_1().predictPartyVictory("DR"));
+        System.out.println(new Solution649_1().predictPartyVictory("DR"));
     }
 }

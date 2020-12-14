@@ -3,7 +3,7 @@ package Leetcode.code;
 /**
  * 62.不同路径
  */
-public class Test62_2 {
+public class Solution62_2 {
     /**
      * 20 10 4 1
      * 10 6 3 1

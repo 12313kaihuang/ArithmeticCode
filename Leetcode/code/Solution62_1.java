@@ -18,7 +18,7 @@ package Leetcode.code;
  * 链接：https://leetcode-cn.com/problems/unique-paths
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Test62_1 {
+public class Solution62_1 {
 
     public int uniquePaths(int m, int n) {
         return pointByPath(m, n, 1, 1);
@@ -33,8 +33,8 @@ public class Test62_1 {
 
 
     public static void main(String[] args) {
-        Test62_1 solution = new Test62_1();
-        Test62_2 solution2 = new Test62_2();
+        Solution62_1 solution = new Solution62_1();
+        Solution62_2 solution2 = new Solution62_2();
         System.out.println(solution.uniquePaths(7, 3));
         System.out.println(solution2.uniquePaths2(7, 3));
     }

@@ -27,7 +27,7 @@ import java.util.Arrays;
  * 链接：https://leetcode-cn.com/problems/lemonade-change
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Test860_1 {
+public class Solution860_1 {
 
     public boolean lemonadeChange(int[] bills) {
         //changes[0]存储当前5元张数，changes[1]为10元张数
@@ -72,7 +72,7 @@ public class Test860_1 {
 
     public static void main(String[] args) {
         //System.out.println(new Solution().lemonadeChange(new int[]{5, 5, 5, 10, 5, 5, 10, 20, 20, 20}));
-        System.out.println(new Test860_1().lemonadeChange(new int[]{5, 5, 5, 5, 20, 20, 5, 5, 5, 5}));
-        System.out.println(new Test860_2().lemonadeChange(new int[]{5, 5, 5, 5, 20, 20, 5, 5, 5, 5}));
+        System.out.println(new Solution860_1().lemonadeChange(new int[]{5, 5, 5, 5, 20, 20, 5, 5, 5, 5}));
+        System.out.println(new Solution860_2().lemonadeChange(new int[]{5, 5, 5, 5, 20, 20, 5, 5, 5, 5}));
     }
 }
