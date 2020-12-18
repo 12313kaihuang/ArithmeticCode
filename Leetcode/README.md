@@ -5,6 +5,7 @@
 * [217. 存在重复元素](./code/Solution217_1.java)
 * [290. 单词规律](./code/Solution290_1.java)
 * [376. 摆动序列](./code/Solution376_1.java)
+* [389. 找不同](./code/Solution389_1.java)
 * [649. Dota2 参议院](./code/Solution649_1.java)
 * [714. 买卖股票的最佳时机含手续费](./code/Solution714_1.java)
 * [738. 单调递增的数字](./code/Solution738_1.java)
