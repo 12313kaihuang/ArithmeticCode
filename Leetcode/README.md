@@ -17,4 +17,5 @@
 * [830. 较大分组的位置](./code/Solution830_1.java)
 * [842. 将数组拆分成斐波那契序列](./code/Solution842_1.java)
 * [860. 柠檬水找零](./code/Solution860_1.java)
+* [888. 公平的糖果棒交换](./code/Solution888_1.java)
 * [1046. 最后一块石头的重量](./code/Solution1046_1.java)
