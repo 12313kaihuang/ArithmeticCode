@@ -18,6 +18,7 @@
 * [738. 单调递增的数字](./code/Solution738_1.java)
 * [746. 使用最小花费爬楼梯](./code/Solution746_1.java)
 * [830. 较大分组的位置](./code/Solution830_1.java)
+* [832. 翻转图像](./code/Solution832_1.java)
 * [842. 将数组拆分成斐波那契序列](./code/Solution842_1.java)
 * [860. 柠檬水找零](./code/Solution860_1.java)
 * [888. 公平的糖果棒交换](./code/Solution888_1.java)
