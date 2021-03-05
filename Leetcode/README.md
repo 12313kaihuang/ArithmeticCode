@@ -4,6 +4,7 @@
 * [62. 不同路径](./code/Solution62_1.java)
 * [103. 二叉树的锯齿形层序遍历](./code/Solution103_1.java)
 * [217. 存在重复元素](./code/Solution217_1.java)
+* [232. 用栈实现队列](./code/Solution232_1.java)
 * [290. 单词规律](./code/Solution290_1.java)
 * [338. 比特位计数](./code/Solution338_1.java)
 * [376. 摆动序列](./code/Solution376_1.java)
