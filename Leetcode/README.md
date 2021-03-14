@@ -18,6 +18,7 @@
 * [665. 非递减数列](./code/Solution665_1.java)
 * [697. 数组的度](./code/Solution697_1.java)
 * [705. 设计哈希集合](./code/Solution705_1.java)
+* [706. 设计哈希映射合](./code/Solution706_1.java)
 * [714. 买卖股票的最佳时机含手续费](./code/Solution714_1.java)
 * [738. 单调递增的数字](./code/Solution738_1.java)
 * [746. 使用最小花费爬楼梯](./code/Solution746_1.java)
