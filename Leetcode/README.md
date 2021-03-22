@@ -5,6 +5,7 @@
 * [62. 不同路径](./code/Solution62_1.java)
 * [92. 反转链表 II](./code/Solution92_1.java)
 * [103. 二叉树的锯齿形层序遍历](./code/Solution103_1.java)
+* [191. 位1的个数](./code/Solution191_1.java)
 * [217. 存在重复元素](./code/Solution217_1.java)
 * [227. 基本计算器 II](./code/Solution227_1.java)
 * [232. 用栈实现队列](./code/Solution232_1.java)
