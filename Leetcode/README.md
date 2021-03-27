@@ -2,6 +2,7 @@
 * [7. 整数反转](./code/Solution7_1.java)
 * [49. 字母异位词分组](./code/Solution49_1.java)
 * [54. 螺旋矩阵](./code/Solution54_1.java)
+* [61. 旋转链表](./code/Solution61_1.java)
 * [62. 不同路径](./code/Solution62_1.java)
 * [83. 删除排序链表中的重复元素](./code/Solution83_1.java)
 * [92. 反转链表 II](./code/Solution92_1.java)
