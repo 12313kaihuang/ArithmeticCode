@@ -42,6 +42,7 @@
 * [860. 柠檬水找零](./code/Solution860_1.java)
 * [867. 转置矩阵](./code/Solution867_1.java)
 * [888. 公平的糖果棒交换](./code/Solution888_1.java)
+* [938. 二叉搜索树的范围和](./code/Solution938_1.java)
 * [1011. 在 D 天内送达包裹的能力](./code/Solution1011_1.java)
 * [1046. 最后一块石头的重量](./code/Solution1046_1.java)
 * [1047. 删除字符串中的所有相邻重复项](./code/Solution1047_1.java)
