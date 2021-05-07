@@ -47,3 +47,4 @@
 * [1046. 最后一块石头的重量](./code/Solution1046_1.java)
 * [1047. 删除字符串中的所有相邻重复项](./code/Solution1047_1.java)
 * [1603. 设计停车系统](./code/Solution1603_1.java)
+* [1720. 解码异或后的数组](./code/Solution1720_1.java)
