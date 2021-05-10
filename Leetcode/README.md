@@ -41,6 +41,7 @@
 * [842. 将数组拆分成斐波那契序列](./code/Solution842_1.java)
 * [860. 柠檬水找零](./code/Solution860_1.java)
 * [867. 转置矩阵](./code/Solution867_1.java)
+* [872. 叶子相似的树](./code/Solution872_1.java)
 * [888. 公平的糖果棒交换](./code/Solution888_1.java)
 * [938. 二叉搜索树的范围和](./code/Solution938_1.java)
 * [1011. 在 D 天内送达包裹的能力](./code/Solution1011_1.java)
