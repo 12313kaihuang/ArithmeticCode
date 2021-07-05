@@ -1,6 +1,7 @@
 # 题目序号
 * [1. 两数之和](./code/Solution1_1.java)
 * [7. 整数反转](./code/Solution7_1.java)
+* [8. 字符串转换整数 (atoi)](./code/Solution8_1.java)
 * [28. 实现 strStr()](./code/Solution28_1.java)
 * [49. 字母异位词分组](./code/Solution49_1.java)
 * [54. 螺旋矩阵](./code/Solution54_1.java)
