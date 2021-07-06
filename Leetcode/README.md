@@ -53,6 +53,7 @@
 * [1011. 在 D 天内送达包裹的能力](./code/Solution1011_1.java)
 * [1046. 最后一块石头的重量](./code/Solution1046_1.java)
 * [1047. 删除字符串中的所有相邻重复项](./code/Solution1047_1.java)
+* [1418. 点菜展示表](./code/Solution1418_1.java)
 * [1486. 数组异或操作](./code/Solution1486_1.java)
 * [1603. 设计停车系统](./code/Solution1603_1.java)
 * [1720. 解码异或后的数组](./code/Solution1720_1.java)
