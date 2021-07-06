@@ -91,9 +91,6 @@ public class Solution1_1 {
         return null;
     }
 
-    private int getIndex(int[] nums, int target) {
-
-    }
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(new Solution1_1().twoSum4(new int[]{3, 2, 4}, 6)));
