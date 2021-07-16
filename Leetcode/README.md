@@ -4,6 +4,7 @@
 * [8. 字符串转换整数 (atoi)](./code/Solution8_1.java)
 * [9. 回文数](./code/Solution9_1.java)
 * [28. 实现 strStr()](./code/Solution28_1.java)
+* [34. 在排序数组中查找元素的第一个和最后一个位置](./code/Solution34_1.java)
 * [49. 字母异位词分组](./code/Solution49_1.java)
 * [54. 螺旋矩阵](./code/Solution54_1.java)
 * [61. 旋转链表](./code/Solution61_1.java)
