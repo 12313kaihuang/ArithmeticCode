@@ -61,5 +61,6 @@
 * [1603. 设计停车系统](./code/Solution1603_1.java)
 * [1711. 大餐计数](./code/Solution1711_1.java)
 * [1720. 解码异或后的数组](./code/Solution1720_1.java)
+* [1818. 绝对差值和](./code/Solution1818_1.java)
 * [1833. 雪糕的最大数量](./code/Solution1833_1.java)
 * [1846. 减小和重新排列数组后的最大元素](./code/Solution1846_1.java)
