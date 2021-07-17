@@ -1,5 +1,6 @@
 # 题目序号
 
+## Leetcode
 * [1. 两数之和](./code/Solution1_1.java)
 * [7. 整数反转](./code/Solution7_1.java)
 * [8. 字符串转换整数 (atoi)](./code/Solution8_1.java)
@@ -67,3 +68,9 @@
 * [1818. 绝对差值和](./code/Solution1818_1.java)
 * [1833. 雪糕的最大数量](./code/Solution1833_1.java)
 * [1846. 减小和重新排列数组后的最大元素](./code/Solution1846_1.java)
+
+## 剑指Offer
+* [15. 二进制中1的个数](./swordtooffer/OfferSolution15_1.java)
+* [38. 字符串的排列](./swordtooffer/OfferSolution38_1.java)
+* [42. 连续子数组的最大和](./swordtooffer/OfferSolution42_1.java)
+* [53 - I. 在排序数组中查找数字 I](./swordtooffer/OfferSolution53_1.java)

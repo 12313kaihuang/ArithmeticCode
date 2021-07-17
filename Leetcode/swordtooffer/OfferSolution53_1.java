@@ -1,4 +1,4 @@
-package Leetcode.others;
+package Leetcode.swordtooffer;
 
 /**
  * 剑指 Offer 53 - I. 在排序数组中查找数字 I

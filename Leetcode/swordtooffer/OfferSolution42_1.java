@@ -1,4 +1,4 @@
-package Leetcode.others;
+package Leetcode.swordtooffer;
 
 /**
  * 剑指 Offer 42. 连续子数组的最大和
@@ -19,7 +19,7 @@ package Leetcode.others;
  * 链接：https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class OfferSolution43_1 {
+public class OfferSolution42_1 {
 
     //贪心？
     public int maxSubArray(int[] nums) {
@@ -55,7 +55,7 @@ public class OfferSolution43_1 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new OfferSolution43_1().maxSubArray2(new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4}));
-        System.out.println(new OfferSolution43_1().maxSubArray2(new int[]{-2, -1}));
+        System.out.println(new OfferSolution42_1().maxSubArray2(new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4}));
+        System.out.println(new OfferSolution42_1().maxSubArray2(new int[]{-2, -1}));
     }
 }

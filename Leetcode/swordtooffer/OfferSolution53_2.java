@@ -1,4 +1,4 @@
-package Leetcode.others;
+package Leetcode.swordtooffer;
 
 public class OfferSolution53_2 {
     public int search3(int[] nums, int target) {

@@ -1,4 +1,4 @@
-package Leetcode.others;
+package Leetcode.swordtooffer;
 
 
 import java.util.HashSet;

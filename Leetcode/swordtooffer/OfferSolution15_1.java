@@ -1,4 +1,4 @@
-package Leetcode.others;
+package Leetcode.swordtooffer;
 
 /**
  * 剑指 Offer 15. 二进制中1的个数
