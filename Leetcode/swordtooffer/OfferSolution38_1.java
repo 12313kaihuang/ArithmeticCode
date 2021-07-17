@@ -39,6 +39,10 @@ public class OfferSolution38_1 {
         return res.toArray(new String[res.size()]);
     }
 
+    /**
+     * 这个题解有图解可能会更有助于理解
+     * https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-hui-su-fa-by/
+     */
     void dfs(int x) {
         if (x == c.length - 1) {
             res.add(String.valueOf(c));      // 添加排列方案
