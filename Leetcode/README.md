@@ -76,3 +76,7 @@
 * [38. 字符串的排列](./swordtooffer/OfferSolution38_1.java)
 * [42. 连续子数组的最大和](./swordtooffer/OfferSolution42_1.java)
 * [53 - I. 在排序数组中查找数字 I](./swordtooffer/OfferSolution53_1.java)
+
+## 面试题
+* [面试题 10.02. 变位词组](./others/InterviewSolution10_02_1.java)
+* [面试题 17.10. 主要元素](./others/InterviewSolution17_10_1.java)
