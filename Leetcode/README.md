@@ -78,6 +78,7 @@
 * [15. 二进制中1的个数](./swordtooffer/OfferSolution15_1.java)
 * [38. 字符串的排列](./swordtooffer/OfferSolution38_1.java)
 * [42. 连续子数组的最大和](./swordtooffer/OfferSolution42_1.java)
+* [52. 两个链表的第一个公共节点](./swordtooffer/OfferSolution52_1.java)
 * [53 - I. 在排序数组中查找数字 I](./swordtooffer/OfferSolution53_1.java)
 
 ## 面试题
