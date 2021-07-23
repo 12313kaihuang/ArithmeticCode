@@ -74,6 +74,7 @@
 * [1838. 最高频元素的频数](./code/Solution1838_1.java)
 * [1846. 减小和重新排列数组后的最大元素](./code/Solution1846_1.java)
 * [1877. 数组中最大数对和的最小值](./code/Solution1877_1.java)
+* [1893. 检查是否区域内所有整数都被覆盖](./code/Solution1893_1.java)
 
 ## 剑指Offer
 * [15. 二进制中1的个数](./swordtooffer/OfferSolution15_1.java)
