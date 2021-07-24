@@ -69,6 +69,7 @@
 * [1603. 设计停车系统](./code/Solution1603_1.java)
 * [1711. 大餐计数](./code/Solution1711_1.java)
 * [1720. 解码异或后的数组](./code/Solution1720_1.java)
+* [1736. 替换隐藏数字得到的最晚时间](./code/Solution1736_1.java)
 * [1818. 绝对差值和](./code/Solution1818_1.java)
 * [1833. 雪糕的最大数量](./code/Solution1833_1.java)
 * [1838. 最高频元素的频数](./code/Solution1838_1.java)
