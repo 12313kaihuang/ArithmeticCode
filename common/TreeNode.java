@@ -1,4 +1,4 @@
-package ArithmeticCode.common;
+package common;
 
 /**
  * Created by Hy on 2019/11/14 9:43

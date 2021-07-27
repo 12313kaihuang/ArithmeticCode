@@ -1,6 +1,6 @@
-package ArithmeticCode.SwordToOffer.code;
+package SwordToOffer.code;
 
-import ArithmeticCode.common.TreeNode;
+import common.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Comparator;

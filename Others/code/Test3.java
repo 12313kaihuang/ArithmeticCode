@@ -1,6 +1,6 @@
-package ArithmeticCode.Others.code;
+package Others.code;
 
-import ArithmeticCode.common.TreeNode;
+import common.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

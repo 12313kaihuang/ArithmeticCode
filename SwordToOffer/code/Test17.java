@@ -1,6 +1,6 @@
-package ArithmeticCode.SwordToOffer.code;
+package SwordToOffer.code;
 
-import ArithmeticCode.common.TreeNode;
+import common.TreeNode;
 
 /**
  * Created by Hy on 2019/12/04 20:00
