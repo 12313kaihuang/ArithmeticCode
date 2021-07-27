@@ -46,6 +46,7 @@
 * [649. Dota2 参议院](./code/Solution649_1.java)
 * [665. 非递减数列](./code/Solution665_1.java)
 * [697. 数组的度](./code/Solution697_1.java)
+* [671. 二叉树中第二小的节点](./code/Solution671_1.java)
 * [705. 设计哈希集合](./code/Solution705_1.java)
 * [706. 设计哈希映射合](./code/Solution706_1.java)
 * [714. 买卖股票的最佳时机含手续费](./code/Solution714_1.java)
