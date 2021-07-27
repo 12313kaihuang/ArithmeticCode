@@ -18,6 +18,7 @@
 * [91. 解码方法](./code/Solution91_1.java)
 * [92. 反转链表 II](./code/Solution92_1.java)
 * [103. 二叉树的锯齿形层序遍历](./code/Solution103_1.java)
+* [104. 二叉树的最大深度](./code/Solution104_1.java)
 * [138. 复制带随机指针的链表](./code/Solution138_1.java)
 * [168. Excel表列名称](./code/Solution168_1.java)
 * [173. 二叉搜索树迭代器](./code/Solution173_1.java)
@@ -85,6 +86,7 @@
 * [42. 连续子数组的最大和](./swordtooffer/OfferSolution42_1.java)
 * [52. 两个链表的第一个公共节点](./swordtooffer/OfferSolution52_1.java)
 * [53 - I. 在排序数组中查找数字 I](./swordtooffer/OfferSolution53_1.java)
+* [剑指 Offer 55 - I. 二叉树的深度](./swordtooffer/OfferSolution53_1.java)
 
 ## 面试题
 * [面试题 10.02. 变位词组](./others/InterviewSolution10_02_1.java)
