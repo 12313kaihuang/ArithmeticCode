@@ -71,4 +71,36 @@ public class Solution5_1 {
         }
         return true;
     }
+
+    //动态规划
+    public String longestPalindrome2(String s) {
+        int length = s.length();
+        if (length < 2) return s;
+
+        int left = 0, maxLen = 1;
+        char[] chars = s.toCharArray();
+        boolean[][] dp = new boolean[length][length];  //dp[i][j]表示i到j是否为回文串
+        for (int i = 0; i < length; i++) dp[i][i] = true;
+
+        for (int len = 2; len <= length; len++) { //受状态方程到影响，这里是字串长度
+            for (int l = 0; l < length; l++) {
+                int r = l + len - 1;
+                if (r >= length) break;
+
+                if (chars[l] != chars[r]) {
+                    dp[l][r] = false;
+                } else {
+                    dp[l][r] = r - l < 3 ? true : dp[l + 1][r - 1];
+                }
+
+                if (len > maxLen && dp[l][r]) {
+                    left = l;
+                    maxLen = len;
+                }
+            }
+        }
+        return s.substring(left, left + maxLen);
+    }
+
+
 }
