@@ -1,5 +1,7 @@
 package Others.interview;
 
+import common.TreeNode;
+
 import java.util.Stack;
 
 /**
@@ -7,15 +9,6 @@ import java.util.Stack;
  */
 public class BaiduTest2 {
 
-    static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     //应该没什么问题  就是复杂度可能会有点高
     public TreeNode findParent(TreeNode root, TreeNode node1, TreeNode node2) {

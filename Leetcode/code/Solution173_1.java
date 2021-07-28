@@ -1,5 +1,7 @@
 package Leetcode.code;
 
+import common.TreeNode;
+
 import java.util.LinkedList;
 
 /**
@@ -74,25 +76,6 @@ public class Solution173_1 {
         System.out.println(bstIterator.hasNext());
         System.out.println(bstIterator.next());
         System.out.println(bstIterator.hasNext());
-    }
-
-    static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 
 }

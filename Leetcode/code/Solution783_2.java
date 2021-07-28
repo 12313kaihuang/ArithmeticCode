@@ -1,5 +1,7 @@
 package Leetcode.code;
 
+import common.TreeNode;
+
 public class Solution783_2 {
     int pre;
     int ans;
@@ -23,22 +25,4 @@ public class Solution783_2 {
         dfs(root.right);
     }
 
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
 }

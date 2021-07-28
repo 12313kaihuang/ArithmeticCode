@@ -1,5 +1,7 @@
 package Leetcode.code;
 
+import common.TreeNode;
+
 import java.util.Deque;
 import java.util.LinkedList;
 
@@ -9,9 +11,9 @@ public class Solution173_2 {
 
         //不用预先遍历，next的时候实时操作栈，这样就可以做到空间复杂度O(h)
         //可能是数据量小了，实际运行效果不如1？？
-        private final Deque<Solution173_1.TreeNode> stack = new LinkedList<>();
+        private final Deque<TreeNode> stack = new LinkedList<>();
 
-        public BSTIterator(Solution173_1.TreeNode root) {
+        public BSTIterator(TreeNode root) {
             while (root != null) {
                 stack.push(root);
                 root = root.left;
@@ -23,7 +25,7 @@ public class Solution173_2 {
          * 比官方题解的思路更好理解
          */
         public int next() {
-            Solution173_1.TreeNode node = stack.pop();
+            TreeNode node = stack.pop();
             int ret = node.val;
             node = node.right;
             while (node != null) {
@@ -39,11 +41,11 @@ public class Solution173_2 {
     }
 
     public static void main(String[] args) {
-        Solution173_1.TreeNode node = new Solution173_1.TreeNode(7);
-        node.left = new Solution173_1.TreeNode(3);
-        node.right = new Solution173_1.TreeNode(15);
-        node.right.left = new Solution173_1.TreeNode(9);
-        node.right.right = new Solution173_1.TreeNode(20);
+        TreeNode node = new TreeNode(7);
+        node.left = new TreeNode(3);
+        node.right = new TreeNode(15);
+        node.right.left = new TreeNode(9);
+        node.right.right = new TreeNode(20);
         Solution173_2.BSTIterator bstIterator = new Solution173_2.BSTIterator(node);
         System.out.println(bstIterator.next());
         System.out.println(bstIterator.next());
