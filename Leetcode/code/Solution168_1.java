@@ -30,6 +30,7 @@ package Leetcode.code;
  * 链接：https://leetcode-cn.com/problems/excel-sheet-column-title
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
+@SuppressWarnings("unused")
 public class Solution168_1 {
 
     /**
@@ -53,7 +54,6 @@ public class Solution168_1 {
     /**
      * 从1开始的26进制转换
      * <p>
-     * <p>
      * 作者：AC_OIer
      * 链接：https://leetcode-cn.com/problems/excel-sheet-column-title/solution/gong-shui-san-xie-cong-1-kai-shi-de-26-j-g2ur/
      * 来源：力扣（LeetCode）
@@ -71,8 +71,21 @@ public class Solution168_1 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution168_1().convertToTitle(1));
-        System.out.println(new Solution168_1().convertToTitle(28));
-        System.out.println(new Solution168_1().convertToTitle(701));
+        System.out.println(new Solution168_1().convertToTitle3(1));
+        System.out.println(new Solution168_1().convertToTitle3(28));
+        System.out.println(new Solution168_1().convertToTitle3(701));
+    }
+
+
+    public String convertToTitle3(int columnNumber) {
+        int base = 26;
+        StringBuilder builder = new StringBuilder();
+        while (columnNumber > 0) {
+            columnNumber--; //-1之后对26求余才能得到[0-15]，除以26才能得到下一阶对应对正确的值
+            int num = columnNumber % base;
+            builder.append((char) (num + 'A'));
+            columnNumber /= base;
+        }
+        return builder.reverse().toString();
     }
 }
