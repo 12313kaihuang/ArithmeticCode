@@ -21,6 +21,7 @@
 * [104. 二叉树的最大深度](./code/Solution104_1.java)
 * [138. 复制带随机指针的链表](./code/Solution138_1.java)
 * [168. Excel表列名称](./code/Solution168_1.java)
+* [171. Excel表列序号](./code/Solution171_1.java)
 * [173. 二叉搜索树迭代器](./code/Solution173_1.java)
 * [191. 位1的个数](./code/Solution191_1.java)
 * [208. 实现 Trie (前缀树)](./code/Solution208_1.java)
