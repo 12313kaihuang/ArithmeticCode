@@ -7,9 +7,12 @@
 * [两个队列实现一个栈](./Others/doc/两个队列实现一个栈.md)
 * [**实现一个栈，可获取栈内最大值**](Others/doc/实现一个栈，可获取栈内最大值.md)
 * [获取树中节点数最多的层数](./Others/doc/获取树中节点数最多的层数.md)
-* [获取树中节点数最多的层数](./Others/doc/获取树中节点数最多的层数.md)
 * [**打印View树的层次结构**](./Others/doc/打印View树的层次结构.md)
 * [**找到交叉链表的第一个公共节点**](./Others/doc/找到交叉链表的第一个公共节点.md)
+* [合并两个有序链表](./Others/interview/BaiduTest1.java)
+* [求两个叶子节点的公共祖先节点](./Others/interview/BaiduTest2.java)
+* [最长无重复元素子数组的长度](./Others/interview/ByteDanceTest1.java)
+* [字符串全排列](./Others/interview/ByteDanceTest2.java)
 
 # LeetCode
    * [README](./Leetcode/README.md)
