@@ -71,6 +71,7 @@
 * [1046. 最后一块石头的重量](./code/Solution1046_1.java)
 * [1047. 删除字符串中的所有相邻重复项](./code/Solution1047_1.java)
 * [1104. 二叉树寻路](./code/Solution1104_1.java)
+* [1337. 矩阵中战斗力最弱的 K 行](./code/Solution1337_1.java)
 * [1418. 点菜展示表](./code/Solution1418_1.java)
 * [1486. 数组异或操作](./code/Solution1486_1.java)
 * [1603. 设计停车系统](./code/Solution1603_1.java)
