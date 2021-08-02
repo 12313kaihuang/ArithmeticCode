@@ -51,6 +51,7 @@
 * [705. 设计哈希集合](./code/Solution705_1.java)
 * [706. 设计哈希映射合](./code/Solution706_1.java)
 * [714. 买卖股票的最佳时机含手续费](./code/Solution714_1.java)
+* [743. 网络延迟时间](./code/Solution734_1.java)
 * [738. 单调递增的数字](./code/Solution738_1.java)
 * [746. 使用最小花费爬楼梯](./code/Solution746_1.java)
 * [783. 二叉搜索树节点最小距离](./code/Solution783_1.java)
