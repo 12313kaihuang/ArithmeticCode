@@ -24,6 +24,7 @@ import java.util.Arrays;
  * 链接：https://leetcode-cn.com/problems/valid-triangle-number
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
+@SuppressWarnings("unused")
 public class Solution611_1 {
 
     /**
@@ -54,7 +55,7 @@ public class Solution611_1 {
      * @return 找出边界范围内小于target的值的最大下标
      */
     private int binarySearch(int[] nums, int left, int right, int target) {
-        while (left <= right) {
+        while (left <= right) { //结束条件要注意
             int mid = (left + right) / 2;
             if (nums[mid] >= target) right = mid - 1;
             else left = mid + 1;
@@ -72,6 +73,7 @@ public class Solution611_1 {
      * 我们使用一重循环枚举 i。j 的初始值为 i + 1，k 的初始值为 j + 1 = i + 2。
      * 对于每个固定的 j，我们增加 k 的值，直到有 nums[i] + nums[j] > nums[k]，
      * 此时 nums[j + 1] 到 nums[k - 1] 都满足条件，因此给答案加上 k - j - 1。
+     * <p>
      * 随后我们将 j 的值增加 1，但 k 不用从 j + 1 开始增加，而是从上一次的 k 开始增加即可。
      * 这样做的正确性在方法二中也有所表述，因为如果 nums[i] + nums[j] > nums[k] 成立，
      * 那么满足 nums[i] + nums[j + 1] > nums[k1 + 1] 条件的 k1 一定不小于 k。
@@ -91,6 +93,7 @@ public class Solution611_1 {
             for (int j = i + 1; j < nums.length - 1 && nums[i] != 0; j++) {
                 while (k < nums.length && nums[i] + nums[j] > nums[k])
                     k++;
+                //此时nums[i] + nums[j] <= nums[k]
                 count += k - j - 1;
             }
         }
