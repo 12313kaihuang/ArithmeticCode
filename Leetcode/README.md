@@ -32,6 +32,7 @@
 * [220. 存在重复元素 III](./code/Solution220_1.java)
 * [227. 基本计算器 II](./code/Solution227_1.java)
 * [232. 用栈实现队列](./code/Solution232_1.java)
+* [264. 丑数 II](./code/Solution264_1.java)
 * [290. 单词规律](./code/Solution290_1.java)
 * [338. 比特位计数](./code/Solution338_1.java)
 * [342. 4的幂](./code/Solution342_1.java)
