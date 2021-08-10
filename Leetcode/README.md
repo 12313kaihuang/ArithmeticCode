@@ -42,6 +42,7 @@
 * [389. 找不同](./code/Solution389_1.java)
 * [395. 至少有 K 个重复字符的最长子串](./code/Solution395_1.java)
 * [401. 二进制手表](./code/Solution401_1.java)
+* [413. 等差数列划分](./code/Solution413_1.java)
 * [424. 替换后的最长重复字符](./code/Solution424_1.java)
 * [455. 分发饼干](./code/Solution455_1.java)
 * [457. 环形数组是否存在循环](./code/Solution457_1.java)
