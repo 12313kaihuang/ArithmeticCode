@@ -1,7 +1,7 @@
-package ArithmeticCode.SwordToOffer.code;
+package SwordToOffer.code;
 
-import ArithmeticCode.Others.code.Test4;
-import ArithmeticCode.common.ListNode;
+import Others.code.Test4;
+import common.ListNode;
 
 /**
  * Created by Hy on 2020/01/10 9:56

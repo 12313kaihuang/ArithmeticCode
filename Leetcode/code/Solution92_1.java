@@ -1,5 +1,7 @@
 package Leetcode.code;
 
+import common.ListNode;
+
 /**
  * 92. 反转链表 II
  * <p>
@@ -113,21 +115,4 @@ public class Solution92_1 {
         return dummyHead.next;
     }
 
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
 }

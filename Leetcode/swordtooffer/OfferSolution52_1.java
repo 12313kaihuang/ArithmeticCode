@@ -1,6 +1,6 @@
 package Leetcode.swordtooffer;
 
-import ArithmeticCode.common.ListNode;
+import common.ListNode;
 
 /**
  * 剑指 Offer 52. 两个链表的第一个公共节点

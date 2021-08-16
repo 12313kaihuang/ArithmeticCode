@@ -1,7 +1,7 @@
-package ArithmeticCode.SwordToOffer.code;
+package SwordToOffer.code;
 
 
-import ArithmeticCode.common.ListNode;
+import common.ListNode;
 
 import java.util.ArrayList;
 import java.util.Stack;

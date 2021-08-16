@@ -1,4 +1,4 @@
-package ArithmeticCode.common;
+package common;
 
 /**
  * Created by Hy on 2019/11/12 9:21
@@ -13,4 +13,8 @@ public class ListNode {
         this.val = val;
     }
 
+    ListNode(int val, ListNode next) {
+        this.val = val;
+        this.next = next;
+    }
 }

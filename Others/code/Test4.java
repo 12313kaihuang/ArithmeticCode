@@ -1,6 +1,6 @@
-package ArithmeticCode.Others.code;
+package Others.code;
 
-import ArithmeticCode.common.ListNode;
+import common.ListNode;
 
 /**
  * Created by Hy on 2020/01/04 9:58
