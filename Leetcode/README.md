@@ -49,6 +49,7 @@
 * [457. 环形数组是否存在循环](./code/Solution457_1.java)
 * [509. 斐波那契数](./code/Solution509_1.java)
 * [516. 最长回文子序列](./code/Solution516_1.java)
+* [552. 学生出勤记录 II](./code/Solution552_1.java)
 * [551. 学生出勤记录 I](./code/Solution551_1.java)
 * [581. 最短无序连续子数组](./code/Solution581_1.java)
 * [611. 有效三角形的个数](./code/Solution611_1.java)
