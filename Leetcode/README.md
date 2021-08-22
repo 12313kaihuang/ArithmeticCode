@@ -69,6 +69,7 @@
 * [738. 单调递增的数字](./code/Solution738_1.java)
 * [746. 使用最小花费爬楼梯](./code/Solution746_1.java)
 * [783. 二叉搜索树节点最小距离](./code/Solution783_1.java)
+* [789. 逃脱阻碍者](./code/Solution789_1.java)
 * [802. 找到最终的安全状态](./code/Solution802_1.java)
 * [830. 较大分组的位置](./code/Solution830_1.java)
 * [832. 翻转图像](./code/Solution832_1.java)
