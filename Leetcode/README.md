@@ -71,6 +71,7 @@
 * [783. 二叉搜索树节点最小距离](./code/Solution783_1.java)
 * [787. K 站中转内最便宜的航班](./code/Solution787_1.java)
 * [789. 逃脱阻碍者](./code/Solution789_1.java)
+* [797. 所有可能的路径](./code/Solution797_1.java)
 * [802. 找到最终的安全状态](./code/Solution802_1.java)
 * [830. 较大分组的位置](./code/Solution830_1.java)
 * [832. 翻转图像](./code/Solution832_1.java)
