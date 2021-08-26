@@ -80,6 +80,7 @@
 * [863. 二叉树中所有距离为 K 的结点](./code/Solution863_1.java)
 * [867. 转置矩阵](./code/Solution867_1.java)
 * [872. 叶子相似的树](./code/Solution872_1.java)
+* [881. 救生艇](./code/Solution881_1.java)
 * [888. 公平的糖果棒交换](./code/Solution888_1.java)
 * [930. 和相同的二元子数组](./code/Solution930_1.java)
 * [938. 二叉搜索树的范围和](./code/Solution938_1.java)
