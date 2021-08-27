@@ -8,6 +8,7 @@
 * [9. 回文数](./code/Solution9_1.java)
 * [20. 有效的括号](./code/Solution20_1.java)
 * [21. 合并两个有序链表](./code/Solution21_1.java)
+* [27. 移除元素](./code/Solution27_1.java)
 * [28. 实现 strStr()](./code/Solution28_1.java)
 * [34. 在排序数组中查找元素的第一个和最后一个位置](./code/Solution34_1.java)
 * [49. 字母异位词分组](./code/Solution49_1.java)
