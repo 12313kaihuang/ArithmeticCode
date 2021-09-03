@@ -128,3 +128,4 @@
 
 * [面试题 10.02. 变位词组](./others/InterviewSolution10_02_1.java)
 * [面试题 17.10. 主要元素](./others/InterviewSolution17_10_1.java)
+* [面试题 17.14. 最小K个数](./others/InterviewSolution17_14_1.java)
