@@ -116,6 +116,7 @@
 
 ## 剑指Offer
 
+* [剑指 Offer 10- I. 斐波那契数列数](./swordtooffer/OfferSolution10_1.java)
 * [15. 二进制中1的个数](./swordtooffer/OfferSolution15_1.java)
 * [剑指 Offer 22. 链表中倒数第k个节点](./swordtooffer/OfferSolution22_1.java)
 * [38. 字符串的排列](./swordtooffer/OfferSolution38_1.java)
