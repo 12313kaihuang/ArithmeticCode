@@ -98,6 +98,7 @@
 * [1104. 二叉树寻路](./code/Solution1104_1.java)
 * [1109. 航班预订统计](./code/Solution1109_1.java)
 * [1137. 第 N 个泰波那契数](./code/Solution1137_1.java)
+* [1221. 分割平衡字符串](./code/Solution1221_1.java)
 * [1337. 矩阵中战斗力最弱的 K 行](./code/Solution1337_1.java)
 * [1418. 点菜展示表](./code/Solution1418_1.java)
 * [1480. 一维数组的动态和](./code/Solution1480_1.java)
