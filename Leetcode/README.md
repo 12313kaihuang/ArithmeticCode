@@ -50,6 +50,7 @@
 * [413. 等差数列划分](./code/Solution413_1.java)
 * [424. 替换后的最长重复字符](./code/Solution424_1.java)
 * [443. 压缩字符串](./code/Solution443_1.java)
+* [447. 回旋镖的数量](./code/Solution447_1.java)
 * [455. 分发饼干](./code/Solution455_1.java)
 * [457. 环形数组是否存在循环](./code/Solution457_1.java)
 * [470. 用 Rand7() 实现 Rand10()](./code/Solution470_1.java)
