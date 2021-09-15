@@ -23,6 +23,7 @@
 * [103. 二叉树的锯齿形层序遍历](./code/Solution103_1.java)
 * [104. 二叉树的最大深度](./code/Solution104_1.java)
 * [138. 复制带随机指针的链表](./code/Solution138_1.java)
+* [162. 寻找峰值](./code/Solution162_1.java)
 * [165. 比较版本号](./code/Solution165_1.java)
 * [168. Excel表列名称](./code/Solution168_1.java)
 * [171. Excel表列序号](./code/Solution171_1.java)
