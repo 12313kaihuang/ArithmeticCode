@@ -11,6 +11,7 @@
 * [27. 移除元素](./code/Solution27_1.java)
 * [28. 实现 strStr()](./code/Solution28_1.java)
 * [34. 在排序数组中查找元素的第一个和最后一个位置](./code/Solution34_1.java)
+* [36. 有效的数独](./code/Solution36_1.java)
 * [49. 字母异位词分组](./code/Solution49_1.java)
 * [53. 最大子序和](./code/Solution53_1.java)
 * [54. 螺旋矩阵](./code/Solution54_1.java)
