@@ -45,6 +45,7 @@
 * [342. 4的幂](./code/Solution342_1.java)
 * [344. 反转字符串](./code/Solution344_1.java)
 * [345. 反转字符串中的元音字母](./code/Solution345_1.java)
+* [371. 两整数之和](./code/Solution371_1.java)
 * [376. 摆动序列](./code/Solution376_1.java)
 * [387. 字符串中的第一个唯一字符](./code/Solution387_1.java)
 * [389. 找不同](./code/Solution389_1.java)
