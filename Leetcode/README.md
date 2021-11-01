@@ -66,6 +66,7 @@
 * [541. 反转字符串 II](./code/Solution541_1.java)
 * [551. 学生出勤记录 I](./code/Solution551_1.java)
 * [552. 学生出勤记录 II](./code/Solution552_1.java)
+* [575. 分糖果](./code/Solution575_1.java)
 * [581. 最短无序连续子数组](./code/Solution581_1.java)
 * [611. 有效三角形的个数](./code/Solution611_1.java)
 * [633. 平方数之和](./code/Solution633_1.java)
