@@ -97,6 +97,7 @@
 * [830. 较大分组的位置](./code/Solution830_1.java)
 * [832. 翻转图像](./code/Solution832_1.java)
 * [842. 将数组拆分成斐波那契序列](./code/Solution842_1.java)
+* [859. 亲密字符串](./code/Solution859_1.java)
 * [860. 柠檬水找零](./code/Solution860_1.java)
 * [863. 二叉树中所有距离为 K 的结点](./code/Solution863_1.java)
 * [867. 转置矩阵](./code/Solution867_1.java)
