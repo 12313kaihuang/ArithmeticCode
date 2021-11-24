@@ -56,6 +56,7 @@
 * [397. 整数替换](./code/Solution397_1.java)
 * [401. 二进制手表](./code/Solution401_1.java)
 * [413. 等差数列划分](./code/Solution413_1.java)
+* [423. 从英文中重建数字](./code/Solution423_1.java)
 * [424. 替换后的最长重复字符](./code/Solution424_1.java)
 * [443. 压缩字符串](./code/Solution443_1.java)
 * [447. 回旋镖的数量](./code/Solution447_1.java)
