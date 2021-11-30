@@ -54,6 +54,7 @@
 * [389. 找不同](./code/Solution389_1.java)
 * [395. 至少有 K 个重复字符的最长子串](./code/Solution395_1.java)
 * [397. 整数替换](./code/Solution397_1.java)
+* [400. 第 N 位数字](./code/Solution400_1.java)
 * [401. 二进制手表](./code/Solution401_1.java)
 * [413. 等差数列划分](./code/Solution413_1.java)
 * [423. 从英文中重建数字](./code/Solution423_1.java)
