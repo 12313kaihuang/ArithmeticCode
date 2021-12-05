@@ -1,6 +1,7 @@
 # 题目序号
 
 ## Leetcode
+
 * [1. 两数之和](./code/Solution1_1.java)
 * [5. 最长回文子串](./code/Solution5_1.java)
 * [7. 整数反转](./code/Solution7_1.java)
@@ -13,6 +14,7 @@
 * [34. 在排序数组中查找元素的第一个和最后一个位置](./code/Solution34_1.java)
 * [36. 有效的数独](./code/Solution36_1.java)
 * [49. 字母异位词分组](./code/Solution49_1.java)
+* [50. Pow(x, n)](./code/Solution50_1.java)
 * [53. 最大子序和](./code/Solution53_1.java)
 * [54. 螺旋矩阵](./code/Solution54_1.java)
 * [61. 旋转链表](./code/Solution61_1.java)
@@ -48,6 +50,7 @@
 * [344. 反转字符串](./code/Solution344_1.java)
 * [345. 反转字符串中的元音字母](./code/Solution345_1.java)
 * [371. 两整数之和](./code/Solution371_1.java)
+* [372. 超级次方](./code/Solution372_1.java)
 * [376. 摆动序列](./code/Solution376_1.java)
 * [383. 赎金信](./code/Solution383_1.java)
 * [384. 打乱数组](./code/Solution384_1.java)
