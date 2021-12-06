@@ -136,6 +136,7 @@
 * [1720. 解码异或后的数组](./code/Solution1720_1.java)
 * [1736. 替换隐藏数字得到的最晚时间](./code/Solution1736_1.java)
 * [1743. 从相邻元素对还原数组](./code/Solution1743_1.java)
+* [1816. 截断句子](./code/Solution1816_1.java)
 * [1818. 绝对差值和](./code/Solution1818_1.java)
 * [1833. 雪糕的最大数量](./code/Solution1833_1.java)
 * [1838. 最高频元素的频数](./code/Solution1838_1.java)
