@@ -96,6 +96,7 @@
 * [743. 网络延迟时间](./code/Solution734_1.java)
 * [738. 单调递增的数字](./code/Solution738_1.java)
 * [746. 使用最小花费爬楼梯](./code/Solution746_1.java)
+* [748. 最短补全词](./code/Solution748_1.java)
 * [783. 二叉搜索树节点最小距离](./code/Solution783_1.java)
 * [787. K 站中转内最便宜的航班](./code/Solution787_1.java)
 * [789. 逃脱阻碍者](./code/Solution789_1.java)
