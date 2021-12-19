@@ -121,6 +121,7 @@
 * [981. 基于时间的键值存储](./code/Solution981_1.java)
 * [987. 二叉树的垂序遍历](./code/Solution987_1.java)
 * [993. 二叉树的堂兄弟节点](./code/Solution993_1.java)
+* [997. 找到小镇的法官](./code/Solution997_1.java)
 * [1005. K 次取反后最大化的数组和](./code/Solution1005_1.java)
 * [1011. 在 D 天内送达包裹的能力](./code/Solution1011_1.java)
 * [1034. 边界着色](./code/Solution1034_1.java)
