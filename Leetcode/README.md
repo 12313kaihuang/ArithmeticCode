@@ -87,6 +87,7 @@
 * [633. 平方数之和](./code/Solution633_1.java)
 * [649. Dota2 参议院](./code/Solution649_1.java)
 * [665. 非递减数列](./code/Solution665_1.java)
+* [686. 重复叠加字符串匹配](./code/Solution686_1.java)
 * [697. 数组的度](./code/Solution697_1.java)
 * [671. 二叉树中第二小的节点](./code/Solution671_1.java)
 * [704. 二分查找](./code/Solution704_1.java)
