@@ -129,6 +129,7 @@
 * [1034. 边界着色](./code/Solution1034_1.java)
 * [1046. 最后一块石头的重量](./code/Solution1046_1.java)
 * [1047. 删除字符串中的所有相邻重复项](./code/Solution1047_1.java)
+* [1078. Bigram 分词](./code/Solution1078_1.java)
 * [1104. 二叉树寻路](./code/Solution1104_1.java)
 * [1109. 航班预订统计](./code/Solution1109_1.java)
 * [1137. 第 N 个泰波那契数](./code/Solution1137_1.java)
