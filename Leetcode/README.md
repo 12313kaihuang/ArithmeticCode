@@ -157,6 +157,7 @@
 * [1846. 减小和重新排列数组后的最大元素](./code/Solution1846_1.java)
 * [1877. 数组中最大数对和的最小值](./code/Solution1877_1.java)
 * [1893. 检查是否区域内所有整数都被覆盖](./code/Solution1893_1.java)
+* [1995. 统计特殊四元组](./code/Solution1995_1.java)
 
 ## 剑指Offer
 
