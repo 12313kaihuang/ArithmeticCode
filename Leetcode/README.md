@@ -72,6 +72,7 @@
 * [496. 下一个更大元素 I](./code/Solution496_1.java)
 * [500. 键盘行](./code/Solution500_1.java)
 * [506. 相对名次](./code/Solution506_1.java)
+* [507. 完美数](./code/Solution507_1.java)
 * [509. 斐波那契数](./code/Solution509_1.java)
 * [516. 最长回文子序列](./code/Solution516_1.java)
 * [520. 检测大写字母](./code/Solution520_1.java)
