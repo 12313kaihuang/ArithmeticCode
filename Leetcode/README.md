@@ -20,6 +20,7 @@
 * [54. 螺旋矩阵](./code/Solution54_1.java)
 * [61. 旋转链表](./code/Solution61_1.java)
 * [62. 不同路径](./code/Solution62_1.java)
+* [71. 简化路径](./code/Solution71_1.java)
 * [74. 搜索二维矩阵](./code/Solution74_1.java)
 * [83. 删除排序链表中的重复元素](./code/Solution83_1.java)
 * [91. 解码方法](./code/Solution91_1.java)
