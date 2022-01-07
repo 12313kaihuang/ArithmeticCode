@@ -148,6 +148,7 @@
 * [1518. 换酒问题](./code/Solution1518_1.java)
 * [1588. 所有奇数长度子数组的和](./code/Solution1588_1.java)
 * [1603. 设计停车系统](./code/Solution1603_1.java)
+* [1614. 括号的最大嵌套深度](./code/Solution1614_1.java)
 * [1646. 获取生成数组中的最大值](./code/Solution1646_1.java)
 * [1705. 吃苹果的最大数目](./code/Solution1705_1.java)
 * [1711. 大餐计数](./code/Solution1711_1.java)
