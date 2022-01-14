@@ -54,6 +54,7 @@
 * [345. 反转字符串中的元音字母](./code/Solution345_1.java)
 * [371. 两整数之和](./code/Solution371_1.java)
 * [372. 超级次方](./code/Solution372_1.java)
+* [373. 查找和最小的 K 对数字](./code/Solution373_1.java)
 * [376. 摆动序列](./code/Solution376_1.java)
 * [383. 赎金信](./code/Solution383_1.java)
 * [384. 打乱数组](./code/Solution384_1.java)
