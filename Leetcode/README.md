@@ -156,6 +156,7 @@
 * [1646. 获取生成数组中的最大值](./code/Solution1646_1.java)
 * [1705. 吃苹果的最大数目](./code/Solution1705_1.java)
 * [1711. 大餐计数](./code/Solution1711_1.java)
+* [1716. 计算力扣银行的钱](./code/Solution1716_1.java)
 * [1720. 解码异或后的数组](./code/Solution1720_1.java)
 * [1736. 替换隐藏数字得到的最晚时间](./code/Solution1736_1.java)
 * [1743. 从相邻元素对还原数组](./code/Solution1743_1.java)
