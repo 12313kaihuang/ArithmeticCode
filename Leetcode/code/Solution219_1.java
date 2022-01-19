@@ -27,8 +27,10 @@ import java.util.Set;
  * 链接：https://leetcode-cn.com/problems/contains-duplicate-ii
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
+@SuppressWarnings("unused")
 public class Solution219_1 {
 
+    //滑动窗口
     //两个循环的初始值和结束值还是有点东西
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         Set<Integer> numsSet = new HashSet<>();
