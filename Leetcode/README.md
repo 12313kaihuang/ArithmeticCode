@@ -131,6 +131,7 @@
 * [888. 公平的糖果棒交换](./code/Solution888_1.java)
 * [930. 和相同的二元子数组](./code/Solution930_1.java)
 * [938. 二叉搜索树的范围和](./code/Solution938_1.java)
+* [977. 有序数组的平方](./code/Solution977_1.java)
 * [981. 基于时间的键值存储](./code/Solution981_1.java)
 * [987. 二叉树的垂序遍历](./code/Solution987_1.java)
 * [993. 二叉树的堂兄弟节点](./code/Solution993_1.java)
