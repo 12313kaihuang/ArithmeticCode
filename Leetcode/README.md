@@ -47,6 +47,7 @@
 * [264. 丑数 II](./code/Solution264_1.java)
 * [268. 丢失的数字](./code/Solution268_1.java)
 * [278. 第一个错误的版本](./code/Solution278_1.java)
+* [283. 移动零](./code/Solution283_1.java)
 * [290. 单词规律](./code/Solution290_1.java)
 * [313. 超级丑数](./code/Solution313_1.java)
 * [326. 3的幂](./code/Solution326_1.java)
