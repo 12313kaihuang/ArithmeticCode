@@ -31,6 +31,7 @@
 * [138. 复制带随机指针的链表](./code/Solution138_1.java)
 * [162. 寻找峰值](./code/Solution162_1.java)
 * [165. 比较版本号](./code/Solution165_1.java)
+* [167. 两数之和 II - 输入有序数组](./code/Solution167_1.java)
 * [168. Excel表列名称](./code/Solution168_1.java)
 * [171. Excel表列序号](./code/Solution171_1.java)
 * [173. 二叉搜索树迭代器](./code/Solution173_1.java)
