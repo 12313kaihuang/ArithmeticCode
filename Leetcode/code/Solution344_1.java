@@ -24,6 +24,15 @@ public class Solution344_1 {
 
     public void reverseString(char[] chars) {
         for (int s = 0, e = chars.length - 1; s < e; s++, e--) {
+            chars[s] += chars[e];
+            chars[e] = (char) (chars[s] - chars[e]);
+            chars[s] = (char) (chars[s] - chars[e]);
+        }
+    }
+
+    //异或？
+    public void reverseString2(char[] chars) {
+        for (int s = 0, e = chars.length - 1; s < e; s++, e--) {
             chars[s] ^= chars[e];
             chars[e] ^= chars[s];
             chars[s] ^= chars[e];
