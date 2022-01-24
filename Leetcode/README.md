@@ -8,6 +8,7 @@
 * [8. 字符串转换整数 (atoi)](./code/Solution8_1.java)
 * [9. 回文数](./code/Solution9_1.java)
 * [14. 最长公共前缀](./code/Solution14_1.java)
+* [19. 删除链表的倒数第 N 个结点](./code/Solution19_1.java)
 * [20. 有效的括号](./code/Solution20_1.java)
 * [21. 合并两个有序链表](./code/Solution21_1.java)
 * [27. 移除元素](./code/Solution27_1.java)
