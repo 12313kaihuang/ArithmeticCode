@@ -3,6 +3,7 @@
 ## Leetcode
 
 * [1. 两数之和](./code/Solution1_1.java)
+* [3. 无重复字符的最长子串](./code/Solution3_1.java)
 * [5. 最长回文子串](./code/Solution5_1.java)
 * [7. 整数反转](./code/Solution7_1.java)
 * [8. 字符串转换整数 (atoi)](./code/Solution8_1.java)
