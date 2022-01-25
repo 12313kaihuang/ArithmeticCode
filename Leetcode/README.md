@@ -95,6 +95,7 @@
 * [557. 反转字符串中的单词 III](./code/Solution557_1.java)
 * [559. N 叉树的最大深度](./code/Solution559_1.java)
 * [563. 二叉树的坡度](./code/Solution563_1.java)
+* [567. 字符串的排列](./code/Solution567_1.java)
 * [575. 分糖果](./code/Solution575_1.java)
 * [581. 最短无序连续子数组](./code/Solution581_1.java)
 * [611. 有效三角形的个数](./code/Solution611_1.java)
