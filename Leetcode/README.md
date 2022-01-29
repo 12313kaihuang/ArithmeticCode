@@ -40,6 +40,7 @@
 * [173. 二叉搜索树迭代器](./code/Solution173_1.java)
 * [189. 轮转数组](./code/Solution189_1.java)
 * [191. 位1的个数](./code/Solution191_1.java)
+* [206. 反转链表](./code/Solution206_1.java)
 * [208. 实现 Trie (前缀树)](./code/Solution208_1.java)
 * [213. 打家劫舍 II](./code/Solution213_1.java)
 * [217. 存在重复元素](./code/Solution217_1.java)
