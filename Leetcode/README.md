@@ -91,6 +91,7 @@
 * [528. 按权重随机选择](./code/Solution528_1.java)
 * [539. 最小时间差](./code/Solution539_1.java)
 * [541. 反转字符串 II](./code/Solution541_1.java)
+* [542. 01 矩阵](./code/Solution542_1.java)
 * [551. 学生出勤记录 I](./code/Solution551_1.java)
 * [552. 学生出勤记录 II](./code/Solution552_1.java)
 * [557. 反转字符串中的单词 III](./code/Solution557_1.java)
