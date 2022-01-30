@@ -17,6 +17,7 @@
 * [34. 在排序数组中查找元素的第一个和最后一个位置](./code/Solution34_1.java)
 * [35. 搜索插入位置](./code/Solution35_1.java)
 * [36. 有效的数独](./code/Solution36_1.java)
+* [46. 全排列](./code/Solution46_1.java)
 * [49. 字母异位词分组](./code/Solution49_1.java)
 * [50. Pow(x, n)](./code/Solution50_1.java)
 * [53. 最大子序和](./code/Solution53_1.java)
