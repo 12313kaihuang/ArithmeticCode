@@ -24,6 +24,7 @@
 * [54. 螺旋矩阵](./code/Solution54_1.java)
 * [61. 旋转链表](./code/Solution61_1.java)
 * [62. 不同路径](./code/Solution62_1.java)
+* [70. 爬楼梯](./code/Solution70_1.java)
 * [71. 简化路径](./code/Solution71_1.java)
 * [74. 搜索二维矩阵](./code/Solution74_1.java)
 * [77. 组合](./code/Solution77_1.java)
